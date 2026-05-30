@@ -201,8 +201,8 @@
 
 @font-face {
   font-family: next-sass;
-  src: url("../fonts/next-sass8d53.eot?obdk3g");
-  src: url("../fonts/next-sass8d53.eot?obdk3g#iefix") format("embedded-opentype"), url("../fonts/next-sass8d53.ttf?obdk3g") format("truetype"), url("../fonts/next-sass8d53.woff?obdk3g") format("woff"), url("../fonts/next-sass8d53.svg?obdk3g#next-sass") format("svg");
+  src: url("/fonts/next-sass8d53.eot?obdk3g");
+  src: url("/fonts/next-sass8d53.eot?obdk3g#iefix") format("embedded-opentype"), url("/fonts/next-sass8d53.ttf?obdk3g") format("truetype"), url("/fonts/next-sass8d53.woff?obdk3g") format("woff"), url("/fonts/next-sass8d53.svg?obdk3g#next-sass") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1005,7 +1005,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   content: var(--tw-content);
   position: relative;
@@ -1033,7 +1033,7 @@ body {
 
 .details-body ul li:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1063,7 +1063,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1074,7 +1074,7 @@ body {
 
 .details-body ol li:first-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1098,7 +1098,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1109,7 +1109,7 @@ body {
 
 .details-body ol li:nth-child(2):where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -1133,7 +1133,7 @@ body {
   content: var(--tw-content);
   width: calc(var(--spacing) * 5);
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
   position: relative;
 }
@@ -1144,7 +1144,7 @@ body {
 
 .details-body ol li:last-child:where(.dark, .dark *):before {
   content: var(--tw-content);
-  --tw-content: url("../images/icons/checkmark-white.svg");
+  --tw-content: url("/images/icons/checkmark-white.svg");
   content: var(--tw-content);
 }
 
@@ -10594,79 +10594,79 @@ body {
   }
 
   .bg-\[url\(\'\/images\/ns-img-25\.png\'\)\] {
-    background-image: url("../images/ns-img-25.png");
+    background-image: url("/images/ns-img-25.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-26\.jpg\'\)\] {
-    background-image: url("../images/ns-img-26.jpg");
+    background-image: url("/images/ns-img-26.jpg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-55\.svg\'\)\] {
-    background-image: url("../images/ns-img-55.svg");
+    background-image: url("/images/ns-img-55.svg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-85\.png\'\)\] {
-    background-image: url("../images/ns-img-85.png");
+    background-image: url("/images/ns-img-85.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-128\.svg\'\)\] {
-    background-image: url("../images/ns-img-128.svg");
+    background-image: url("/images/ns-img-128.svg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-160\.png\'\)\] {
-    background-image: url("../images/ns-img-160.png");
+    background-image: url("/images/ns-img-160.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-170\.png\'\)\] {
-    background-image: url("../images/ns-img-170.png");
+    background-image: url("/images/ns-img-170.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-218\.svg\'\)\] {
-    background-image: url("../images/ns-img-218.svg");
+    background-image: url("/images/ns-img-218.svg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-221\.png\'\)\] {
-    background-image: url("../images/ns-img-221.png");
+    background-image: url("/images/ns-img-221.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-223\.png\'\)\] {
-    background-image: url("../images/ns-img-223.png");
+    background-image: url("/images/ns-img-223.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-242\.png\'\)\] {
-    background-image: url("../images/ns-img-242.png");
+    background-image: url("/images/ns-img-242.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-247\.svg\'\)\] {
-    background-image: url("../images/ns-img-247.svg");
+    background-image: url("/images/ns-img-247.svg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-261\.svg\'\)\] {
-    background-image: url("../images/ns-img-261.svg");
+    background-image: url("/images/ns-img-261.svg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-291\.png\'\)\] {
-    background-image: url("../images/ns-img-291.png");
+    background-image: url("/images/ns-img-291.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-295\.jpg\'\)\] {
-    background-image: url("../images/ns-img-295.jpg");
+    background-image: url("/images/ns-img-295.jpg");
   }
 
   .bg-\[url\(\'\/images\/ns-img-329\.png\'\)\] {
-    background-image: url("../images/ns-img-329.png");
+    background-image: url("/images/ns-img-329.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-496\.png\'\)\] {
-    background-image: url("../images/ns-img-496.png");
+    background-image: url("/images/ns-img-496.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-501\.png\'\)\] {
-    background-image: url("../images/ns-img-501.png");
+    background-image: url("/images/ns-img-501.png");
   }
 
   .bg-\[url\(\'\/images\/ns-img-527\.png\'\)\] {
-    background-image: url("../images/ns-img-527.png");
+    background-image: url("/images/ns-img-527.png");
   }
 
   .from-\(image\:--color-gradient-5\) {
@@ -13558,7 +13558,7 @@ body {
 
   .before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:before {
     content: var(--tw-content);
-    --tw-content: url("../images/icons/checkmark-white.svg");
+    --tw-content: url("/images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
@@ -15772,7 +15772,7 @@ body {
     }
 
     .min-\[425px\]\:bg-\[url\(\'\/images\/ns-img-242\.png\'\)\] {
-      background-image: url("../images/ns-img-242.png");
+      background-image: url("/images/ns-img-242.png");
     }
 
     .min-\[425px\]\:py-\[60px\] {
@@ -17195,7 +17195,7 @@ body {
     }
 
     .sm\:bg-\[url\(\'\/images\/ns-img-375\.jpg\'\)\] {
-      background-image: url("../images/ns-img-375.jpg");
+      background-image: url("/images/ns-img-375.jpg");
     }
 
     .sm\:object-cover {
@@ -19830,7 +19830,7 @@ body {
     }
 
     .md\:bg-\[url\(\'\/images\/ns-img-219\.png\'\)\] {
-      background-image: url("../images/ns-img-219.png");
+      background-image: url("/images/ns-img-219.png");
     }
 
     .md\:bg-cover {
@@ -26228,23 +26228,23 @@ body {
   }
 
   .dark\:bg-\[url\(\'\/images\/ns-img-329\.png\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/ns-img-329.png");
+    background-image: url("/images/ns-img-329.png");
   }
 
   .dark\:bg-\[url\(\'\/images\/ns-img-dark-10\.png\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/ns-img-dark-10.png");
+    background-image: url("/images/ns-img-dark-10.png");
   }
 
   .dark\:bg-\[url\(\'\/images\/ns-img-dark-34\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/ns-img-dark-34.svg");
+    background-image: url("/images/ns-img-dark-34.svg");
   }
 
   .dark\:bg-\[url\(\'\/images\/ns-img-dark-97\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/ns-img-dark-97.svg");
+    background-image: url("/images/ns-img-dark-97.svg");
   }
 
   .dark\:bg-\[url\(\'\/images\/ns-img-dark-148\.svg\'\)\]:where(.dark, .dark *) {
-    background-image: url("../images/ns-img-dark-148.svg");
+    background-image: url("/images/ns-img-dark-148.svg");
   }
 
   .dark\:\!from-background-5:where(.dark, .dark *) {
@@ -26815,7 +26815,7 @@ body {
 
   .dark\:before\:content-\[url\(\'\/images\/icons\/checkmark-white\.svg\'\)\]:where(.dark, .dark *):before {
     content: var(--tw-content);
-    --tw-content: url("../images/icons/checkmark-white.svg");
+    --tw-content: url("/images/icons/checkmark-white.svg");
     content: var(--tw-content);
   }
 
